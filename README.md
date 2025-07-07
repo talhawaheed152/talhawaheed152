@@ -3,7 +3,7 @@
 I’m a passionate AI Engineer based in Germany.  <br>🔭 Currently working on cutting-edge machine learning and deep learning projects.  <br>🌱 Always learning new AI frameworks, tools, and techniques.  
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/talhawaheed152/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhawaheed152@gmail.com) 
 
 # 💻 Tech Stack:
@@ -14,7 +14,7 @@ I’m a passionate AI Engineer based in Germany.  <br>🔭 Currently working on 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TalhaWaheed152&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
