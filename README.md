@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Header](./talha_header.png)
 <!--
 **talhawaheed152/talhawaheed152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
